@@ -1,1 +1,8 @@
-
+{
+  "name": "ChampionClub",
+  "short_name": "ChampionClub",
+  "start_url": "https://championclub.ua/uk",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117"
+}
